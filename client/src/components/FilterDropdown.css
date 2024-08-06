@@ -1,0 +1,10 @@
+
+.filter-dropdown-select {
+    height: 50px;
+    width: 300px;
+    background-color: lightblue;
+    border: 3px solid #007bb5; 
+    border-radius: 15px; 
+    padding: 0 10px;
+    box-sizing: border-box;
+ }
